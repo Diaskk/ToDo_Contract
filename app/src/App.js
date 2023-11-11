@@ -3,7 +3,7 @@ import { ethers } from 'ethers';
 import  contractABI from './TODO_LIST_ABI.json';
 import './App.css';
 
-const contractAddress = "0xba0E7149f3B24F29fD88bB65329B58fdd84D6195"; // Replace with your contract's address
+const contractAddress = "0x5867910806452c168D6812985469d963c34bc04D"; // Replace with your contract's address
 
 function EnhancedTodoListApp() {
   const [tasks, setTasks] = useState([]);
