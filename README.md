@@ -1,4 +1,4 @@
-# TODO-list-contract
+# ToDo_Contract
 
 This  Todo List App is a React-based web application that allows users to manage their tasks. It's integrated with Ethereum blockchain using ethers.js, enabling decentralized task management.
 
